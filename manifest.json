@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Random Startup URL",
+  "version": "1.5",
+  "description": "Opens a random URL on startup, keeps regular new tabs black.",
+  "permissions": ["storage", "windows"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
