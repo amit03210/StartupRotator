@@ -1,5 +1,10 @@
 https://memeburn.com/
 https://news.google.com/home?hl=en-US&gl=US&ceid=US%3Aen
 https://slashdot.org/
-https://www.ycombinator.com/blog
-https://www.techstars.com/blog
+https://news.ycombinator.com/
+https://snowfl.com/
+https://techurls.com/
+https://brutalist.report/
+https://lobste.rs/
+https://www.kdnuggets.com/
+https://machinelearningmastery.com/blog/
